@@ -1,11 +1,12 @@
 ![Header](./github-header-image.png)
 
 # 💫 About Me:
-🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning Advanced Backend Development<br>💬 Ask me about Web Development<br>📫 How to reach me: gibran.fsh@gmail.com<br>⚡ Fun fact: I once played Valorant full-time as a pro player
+🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning Advanced Backend Development<br>💬 Ask me about Web Development<br>📫 How to reach me: gibran.fsh@gmail.com<br>⚡ Fun fact: I once played CS:GO and Valorant full-time as a pro player
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gibranfg)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gibran-fasha-ghazanfar-22035319b/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gibranfg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gibran-fasha-ghazanfar-22035319b/) 
 
 # 💻 Tech Stack:
 
