@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # 💫 About Me:
 🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning Advanced Backend Development<br>💬 Ask me about Web Development<br>📫 How to reach me: gibran.fsh@gmail.com<br>⚡ Fun fact: I once played Valorant full-time as a pro player
 
