@@ -39,6 +39,7 @@
 ## Backend Frameworks:
 ![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![HapiJS](https://img.shields.io/badge/HapiJS-%23E0234E.svg?style=flat&logo=hapi&logoColor=white)
+![Next](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=CodeIgniter&logoColor=white)
