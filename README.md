@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image_new.png)
 
 # 💫 About Me:
 🔭 I’m currently working on Software Engineering mostly Backend Engineering<br>🌱 I’m currently learning all about Software Engineering<br>💬 Ask me about IT things<br>📫 How to reach me: gibran.fsh@gmail.com<br>⚡ Fun fact: I once played CS:GO and Valorant full-time as a pro player
