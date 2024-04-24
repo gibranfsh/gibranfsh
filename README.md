@@ -1,6 +1,6 @@
 ![Header](./github-header-image_new.png)
 
-# 💫 About Me:
+# 🔮💫 About Me:
 🔭 I’m currently working on Software Engineering mostly Backend Engineering<br>🌱 I’m currently learning all about Software Engineering<br>💬 Ask me about IT things<br>📫 How to reach me: gibran.fsh@gmail.com<br>⚡ Fun fact: I once played CS:GO and Valorant full-time as a pro player
 
 
@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gibran-fasha-ghazanfar-22035319b/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCucs1pJKNXtdyGpa76Ru7ng)
 
-# 💻 Tech Stack:
+# 💻 Tech Stacks:
 
 ## Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
