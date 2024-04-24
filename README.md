@@ -27,6 +27,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=amazon-dynamodb&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 ## Frontend Frameworks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -43,6 +44,8 @@
 ![Next](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat&logo=fiber&logoColor=white)
+![Chi](https://img.shields.io/badge/Chi-00ADD8?style=flat&logo=chi&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=CodeIgniter&logoColor=white)
 
 ## Cloud & Deployment:
@@ -63,17 +66,19 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=flat&logo=Cockroach%20Labs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat&logo=Supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 
 ## Data Analysis:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=flat&logo=keras&logoColor=white)
 
 ## Other Tools:
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-%232187B6.svg?style=flat&logo=yarn&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-%230A4375.svg?style=flat&logo=slack&logoColor=white)
 
 
 # 📊 GitHub Stats:
